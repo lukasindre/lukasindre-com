@@ -1,0 +1,44 @@
+- key: CMD
+  value:
+    - whoami
+    - lukas-indre
+- key: name
+  value: Lukas
+- key: info
+  value: 
+    - I like to solve problems with Python, AWS, and Kubernetes.
+    - I also like to configure corporate access policy.
+    - I like to spend time with my family.
+    - I read books about professional development.
+    - Pixar Movies are my favorite, along with Harry potter.
+    - I am a guitar hero wizard
+  typed: true
+- key: email
+  value: lukasindre@gmail.com
+  url: mailto:lukasindre@gmail.com
+- key: github
+  value: lukasindre
+  url: https://github.com/lukasindre
+- key: interests
+  value:
+    - Family:
+        wife: Brianna
+        first_daughter: Lennon
+        second_daughter: Sage
+        third_daughter: unnamed
+    - Chickens
+    - Woodworking
+    - Rubik's Cube
+    - Technology
+- key: certifications
+  value:
+    - Certified Kubernetes Application Developer
+    - AWS Solutions Architect
+    - Terraform Associate
+- key: upstart_work
+  value:
+    - 2025-01-01 -> present -- Senior Devops Engineer
+    - 2023-02-10 -> 2025-01-01 -- Senior IT Engineer
+    - 2021-02-10 -> 2023-02-10 -- IT Engineer
+    - 2019-09-16 -> 2021-02-10 -- IT Support Analyst
+    - 2019-06-10 -> 2019-09-16 -- Credit Analyst
