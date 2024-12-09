@@ -1,7 +1,3 @@
-- key: CMD
-  value:
-    - whoami
-    - lukas-indre
 - key: name
   value: Lukas
 - key: info
@@ -12,6 +8,11 @@
     - I read books about professional development.
     - Pixar Movies are my favorite, along with Harry potter.
     - I am a guitar hero wizard
+    - I solve rubik's cubes
+    - i am a chicken farmer
+    - i do some woodwork stuff
+    - i like terraform
+    - i configure okta tenants from the ground up
   typed: true
 - key: email
   value: lukasindre@gmail.com
@@ -32,19 +33,7 @@
       value: sage
     - key: third_daughter
       value: unnamed
-- key: interests
+- key: work_history
   value:
-    - Chickens
-    - Woodworking
-    - Rubik's Cube
-    - Technology
-    - kubernetes
-    - AWS
-    - terraform
-- key: upstart_work
-  value:
-    - 2025-01-01 -> present -- Senior Devops Engineer
-    - 2023-02-10 -> 2025-01-01 -- Senior IT Engineer
-    - 2021-02-10 -> 2023-02-10 -- IT Engineer
-    - 2019-09-16 -> 2021-02-10 -- IT Support Analyst
-    - 2019-06-10 -> 2019-09-16 -- Credit Analyst
+    - upstart -- Senior Devops Engineer
+    - upstart -- senior it engineer
