@@ -2,17 +2,19 @@
   value: Lukas
 - key: info
   value: 
-    - I like to solve problems with Python, AWS, and Kubernetes.
-    - I also like to configure corporate access policy.
-    - I like to spend time with my family.
-    - I read books about professional development.
-    - Pixar Movies are my favorite, along with Harry potter.
+    - I write python.
+    - I configure AWS.
+    - i configure kubernetes.
+    - i secure corporate access.
+    - I spend time with my family.
+    - I read books.
+    - harry potter is my favorite movie.
     - I am a guitar hero wizard.
     - I solve rubik's cubes.
     - i am a chicken farmer.
     - i do some woodwork stuff.
     - i like terraform.
-    - i configure okta tenants from the ground up.
+    - i configure okta tenants.
   typed: true
 - key: email
   value: lukasindre@gmail.com
