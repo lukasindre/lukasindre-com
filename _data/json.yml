@@ -16,28 +16,31 @@
 - key: email
   value: lukasindre@gmail.com
   url: mailto:lukasindre@gmail.com
-- key: github
-  value: lukasindre
-  url: https://github.com/lukasindre
-- key: linkedin
-  value: profile
-  url: https://www.linkedin.com/in/lukas-indre-1269b384/
+- key: profiles
+  value:
+    - value: github
+      url: https://github.com/lukasindre
+    - value: linkedin
+      url: https://www.linkedin.com/in/lukas-indre-1269b384/
+- key: family
+  value:
+    - key: wife
+      value: brianna
+    - key: first_daughter
+      value: lennon
+    - key: second_daughter
+      value: sage
+    - key: third_daughter
+      value: unnamed
 - key: interests
   value:
-    - Family:
-        wife: Brianna
-        first_daughter: Lennon
-        second_daughter: Sage
-        third_daughter: unnamed
     - Chickens
     - Woodworking
     - Rubik's Cube
     - Technology
-- key: certifications
-  value:
-    - Certified Kubernetes Application Developer
-    - AWS Solutions Architect
-    - Terraform Associate
+    - kubernetes
+    - AWS
+    - terraform
 - key: upstart_work
   value:
     - 2025-01-01 -> present -- Senior Devops Engineer
