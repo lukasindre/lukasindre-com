@@ -19,6 +19,9 @@
 - key: github
   value: lukasindre
   url: https://github.com/lukasindre
+- key: linkedin
+  value: profile
+  url: https://www.linkedin.com/in/lukas-indre-1269b384/
 - key: interests
   value:
     - Family:
