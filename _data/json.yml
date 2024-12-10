@@ -19,6 +19,9 @@
 - key: email
   value: lukasindre@gmail.com
   url: mailto:lukasindre@gmail.com
+- key: blog
+  value: blog.lukasindre.com
+  url: https://blog.lukasindre.com
 - key: profiles
   value:
     - value: github
