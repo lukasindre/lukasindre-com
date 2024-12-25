@@ -20,8 +20,8 @@
     - i lift weights.
   typed: true
 - key: email
-  value: lukasindre@gmail.com
-  url: mailto:lukasindre@gmail.com
+  value: me@lukasindre.com
+  url: mailto:me@lukasindre.com
 - key: blog
   value: blog.lukasindre.com
   url: https://blog.lukasindre.com
